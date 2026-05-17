@@ -8,7 +8,7 @@ A complete HR analytics project analyzing global AI/Data Science compensation da
 
 | File | Description |
 |---|---|
-| `Week1_AI_DS_Salaries_Analysis.ipynb` | Main Jupyter notebook (Parts A–E) |
+| `Week1_Qasim.ipynb` | Main Jupyter notebook (Parts A–E) |
 | `cleaned_salaries.csv` | Cleaned, deduplicated dataset exported for Power BI |
 | `Week1_Dashboard.pbix` | Power BI interactive dashboard |
 | `Dashboard_Screenshots.pdf` | 2–3 screenshots of the final dashboard |
@@ -39,7 +39,7 @@ Place the two raw source files in the same directory as the notebook before runn
 
 1. Clone or download this repository.
 2. Place both raw data files in the project root directory.
-3. Open `Week1_AI_DS_Salaries_Analysis.ipynb` in Jupyter or Colab.
+3. Open `Week1_Qasim.ipynb` in Jupyter or Colab.
 4. Run all cells top to bottom (`Kernel → Restart & Run All`).
 
 All cells execute without errors. The final cell exports `cleaned_salaries.csv` to the working directory.
