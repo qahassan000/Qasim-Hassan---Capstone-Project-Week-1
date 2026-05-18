@@ -46,9 +46,9 @@ All cells execute without errors. The final cell exports `cleaned_salaries.csv` 
 
 ### Power BI Dashboard
 
-1. Open `Week1_Dashboard.pbix` in **Power BI Desktop** (free download at [powerbi.microsoft.com](https://powerbi.microsoft.com)).
+1. Open `Week1_Dashboard.pbix` in **Power BI Desktop**.
 2. If prompted to refresh the data source, point it to the `cleaned_salaries.csv` file in this repository.
-3. All slicers and visuals are interactive — no further configuration required.
+3. All slicers and visuals are interactive.
 
 ---
 
